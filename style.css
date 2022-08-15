@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+header {
+    border: 1px solid blue;
+    height: 600px;
+}
+.logo-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    border: 1px solid blue;
+    height: 100px;
+    width: 15%;
+}
+.nav{
+    border: 1px solid blue;
+    height: 100px;
+    width: 40%;
+}
